@@ -7,5 +7,5 @@
  
 ##### Project Description:
 ---------------------------------------------------------------------------------------------------------
-##### The challenge is to create a tutorial that explains how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does. Out of the given Regex List, I've picked the Regex of Matching a URL `/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/` for my gist tutorial. See gist link above.
+##### The challenge is to create a tutorial that explains how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does. Out of the given Regex List, I've picked the Regex of Matching a URL `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/` for my gist's tutorial topic. See gist link above.
 ---------------------------------------------------------------------------------------------------------
